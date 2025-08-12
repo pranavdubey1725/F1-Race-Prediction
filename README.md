@@ -10,6 +10,7 @@ OVERVIEW
 ---
 
 PROJECT STRUCTURE
+'''
 ├── data/ # All dataset files
 │ ├── circuits.csv
 │ ├── constructors.csv
@@ -23,6 +24,7 @@ PROJECT STRUCTURE
 ├── F1_EDA.ipynb # Data cleaning, preprocessing, visualizations
 ├── F1_model.ipynb # Feature engineering, model training & evaluation
 ├── README.md # Project documentation
+'''
  
 DATASETS USED
 The `data/` folder contains:
