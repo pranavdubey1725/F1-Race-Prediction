@@ -1,9 +1,11 @@
 Formula 1 Race Position Prediction
 
 OVERVIEW
-This project predicts Formula 1 drivers’ race finishing positions using historical race data and machine learning techniques.  
-It involves extensive Exploratory Data Analysis (EDA), feature engineering, and model building with **XGBoost** and **scikit-learn**.  
-The dataset is compiled from multiple CSV files containing information on circuits, drivers, constructors, races, and results.
+- Predict Formula 1 drivers’ race finishing positions using historical race data
+- Apply extensive EDA, feature engineering, and ML model building
+- Models used: **XGBoost** and **scikit-learn**
+- Dataset compiled from multiple CSV files (circuits, drivers, constructors, races, results)
+
 
 ---
 
