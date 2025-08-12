@@ -10,21 +10,16 @@ OVERVIEW
 ---
 
 PROJECT STRUCTURE
-'''
-├── data/ # All dataset files
-│ ├── circuits.csv
-│ ├── constructors.csv
-│ ├── drivers.csv
-│ ├── results.csv
-│ ├── lap_times.csv
-│ ├── qualifying.csv
-│ ├── pit_stops.csv
-│ ├── ...
-│
-├── F1_EDA.ipynb # Data cleaning, preprocessing, visualizations
-├── F1_model.ipynb # Feature engineering, model training & evaluation
-├── README.md # Project documentation
-'''
+- **data/** – Contains all dataset CSV files used in the project
+  - `circuits.csv` – Circuit details (location, country, etc.)
+  - `constructors.csv` – Constructor information
+  - `drivers.csv` – Driver information
+  - `results.csv` – Race result records
+  - *(and other supporting datasets)*
+- **F1_EDA.ipynb** – Notebook for data cleaning, preprocessing, and visualizations
+- **F1_model.ipynb** – Notebook for feature engineering, model training, and evaluation
+- **README.md** – Project documentation
+
  
 DATASETS USED
 The `data/` folder contains:
