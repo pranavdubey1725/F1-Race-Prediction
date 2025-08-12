@@ -11,11 +11,6 @@ OVERVIEW
 
 PROJECT STRUCTURE
 - **data/** – Contains all dataset CSV files used in the project
-  - `circuits.csv` – Circuit details (location, country, etc.)
-  - `constructors.csv` – Constructor information
-  - `drivers.csv` – Driver information
-  - `results.csv` – Race result records
-  - *(and other supporting datasets)*
 - **F1_EDA.ipynb** – Notebook for data cleaning, preprocessing, and visualizations
 - **F1_model.ipynb** – Notebook for feature engineering, model training, and evaluation
 - **README.md** – Project documentation
